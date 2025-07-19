@@ -4,12 +4,15 @@ This project focuses on detecting fake news articles using Natural Language Proc
 
 The goal is to identify and classify news articles as Fake News or Factual News with high accuracy.
 
+Used Data set is small for better understanding.
+
 #### Project Highlights
 * Text Preprocessing (stopword removal, lemmatization, regex cleaning)
 * POS Tagging and Named Entity Recognition (NER) for text analysis
 * Sentiment Analysis using VADER
 * Topic Modeling using LDA and LSI
 * Machine Learning Classification with:
+* 70% of data was used for training and 30% of data for testing.
 
 1. Logistic Regression (90% accuracy)
 
